@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Source+Sans+Pro:wght@200&display=swap');
+
+body {font-family: 'Poppins', sans-serif;color:#5b626b}
+h1{font-size:60px;}
+h2{font-size: 42px;font-weight: 400;}
+.csa-bg {width:100%; height:auto;}
+.lottie-cnt{position:absolute; top:180px;}
+.lottie-cnt-img{position: absolute;top: 0;right: -160px; width: 70%;}
+
+
+
+@media (min-width: 1200px) {
+
+    
+}
+
+@media only screen and (min-width: 1681px) and (max-width: 1920px) {
+
+
+
+}
+
+@media only screen and (min-width: 1441px) and (max-width: 1680px) {
+
+
+
+}
+
+@media only screen and (min-width: 993px) and (max-width: 1024px) {
+
+}
+
+@media only screen and (min-width: 800px) and (max-width: 992px) {
+
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 799px) {
+
+}
+
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+  
+}
+
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+  
+}
+
+@media only screen and (min-width: 320px) and (max-width: 414px) {
+   
+
+}
